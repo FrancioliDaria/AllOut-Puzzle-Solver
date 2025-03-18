@@ -1,0 +1,45 @@
+[t=5.1076e-05s, 10036 KB] reading input...
+[t=0.00042649s, 10036 KB] done reading input!
+[t=0.00277257s, 10292 KB] Simplifying 17 unary operators... done! [17 unary operators]
+[t=0.00290547s, 10292 KB] time to simplify: 0.00017662s
+[t=0.00295697s, 10292 KB] Initializing additive heuristic...
+[t=0.00299472s, 10292 KB] Initializing FF heuristic...
+[t=0.0031201s, 10292 KB] Building successor generator...done!
+[t=0.00325162s, 10292 KB] peak memory difference for successor generator creation: 0 KB
+[t=0.00328829s, 10292 KB] time for successor generation creation: 1.626e-05s
+[t=0.00332837s, 10292 KB] Variables: 6
+[t=0.00340165s, 10292 KB] FactPairs: 12
+[t=0.00344393s, 10292 KB] Bytes per state: 4
+[t=0.00372778s, 10292 KB] Conducting best first search with reopening closed nodes, (real) bound = 2147483647
+[t=0.003969s, 10292 KB] New best heuristic value for ff: 2
+[t=0.00402934s, 10292 KB] g=0, 1 evaluated, 0 expanded
+[t=0.00407684s, 10292 KB] f = 2, 1 evaluated, 0 expanded
+[t=0.00411797s, 10292 KB] Initial heuristic value for ff: 2
+[t=0.00416804s, 10292 KB] pruning method: none
+[t=0.00423848s, 10292 KB] New best heuristic value for ff: 1
+[t=0.00460782s, 10292 KB] g=1, 2 evaluated, 1 expanded
+[t=0.00472256s, 10292 KB] New best heuristic value for ff: 0
+[t=0.00477022s, 10292 KB] g=2, 10 evaluated, 2 expanded
+[t=0.00481721s, 10292 KB] Solution found!
+[t=0.00486107s, 10292 KB] Actual search time: 0.000680296s
+toggle light24 (1)
+toggle light25 (1)
+toggle light23 (1)
+[t=0.00491012s, 10292 KB] Plan length: 2 step(s).
+[t=0.00491012s, 10292 KB] Plan cost: 2
+[t=0.00491012s, 10292 KB] Expanded 3 state(s).
+[t=0.00491012s, 10292 KB] Reopened 0 state(s).
+[t=0.00491012s, 10292 KB] Evaluated 10 state(s).
+[t=0.00491012s, 10292 KB] Evaluations: 10
+[t=0.00491012s, 10292 KB] Generated 9 state(s).
+[t=0.00491012s, 10292 KB] Dead ends: 0 state(s).
+[t=0.00491012s, 10292 KB] Expanded until last jump: 0 state(s).
+[t=0.00491012s, 10292 KB] Reopened until last jump: 0 state(s).
+[t=0.00491012s, 10292 KB] Evaluated until last jump: 1 state(s).
+[t=0.00491012s, 10292 KB] Generated until last jump: 0 state(s).
+[t=0.00491012s, 10292 KB] Number of registered states: 10
+[t=0.00491012s, 10292 KB] Int hash set load factor: 10/16 = 0.625
+[t=0.00491012s, 10292 KB] Int hash set resizes: 4
+[t=0.00491012s, 10292 KB] Search time: 0.00118417s
+[t=0.00491012s, 10292 KB] Total time: 0.00491012s
+Solution found.

@@ -1,0 +1,41 @@
+[t=0.000184637s, 10036 KB] reading input...
+[t=0.000547537s, 10036 KB] done reading input!
+[t=0.00308638s, 10292 KB] Simplifying 19 unary operators... done! [19 unary operators]
+[t=0.00326129s, 10292 KB] time to simplify: 0.000209252s
+[t=0.00329685s, 10292 KB] Initializing additive heuristic...
+[t=0.00332409s, 10292 KB] Initializing FF heuristic...
+[t=0.00341002s, 10292 KB] Building successor generator...done!
+[t=0.00350799s, 10292 KB] peak memory difference for successor generator creation: 0 KB
+[t=0.00353231s, 10292 KB] time for successor generation creation: 2.3724e-05s
+[t=0.00356115s, 10292 KB] Variables: 6
+[t=0.0035846s, 10292 KB] FactPairs: 12
+[t=0.00360654s, 10292 KB] Bytes per state: 4
+[t=0.00386681s, 10292 KB] Conducting best first search with reopening closed nodes, (real) bound = 2147483647
+[t=0.00402619s, 10292 KB] New best heuristic value for ff: 1
+[t=0.00406372s, 10292 KB] g=0, 1 evaluated, 0 expanded
+[t=0.00408789s, 10292 KB] f = 1, 1 evaluated, 0 expanded
+[t=0.0041151s, 10292 KB] Initial heuristic value for ff: 1
+[t=0.00413883s, 10292 KB] pruning method: none
+[t=0.00420468s, 10292 KB] New best heuristic value for ff: 0
+[t=0.00423457s, 10292 KB] g=1, 6 evaluated, 1 expanded
+[t=0.00426091s, 10292 KB] Solution found!
+[t=0.00428549s, 10292 KB] Actual search time: 0.00014398s
+toggle light6 (1)
+[t=0.00431037s, 10292 KB] Plan length: 1 step(s).
+[t=0.00431037s, 10292 KB] Plan cost: 1
+[t=0.00431037s, 10292 KB] Expanded 2 state(s).
+[t=0.00431037s, 10292 KB] Reopened 0 state(s).
+[t=0.00431037s, 10292 KB] Evaluated 6 state(s).
+[t=0.00431037s, 10292 KB] Evaluations: 6
+[t=0.00431037s, 10292 KB] Generated 5 state(s).
+[t=0.00431037s, 10292 KB] Dead ends: 0 state(s).
+[t=0.00431037s, 10292 KB] Expanded until last jump: 0 state(s).
+[t=0.00431037s, 10292 KB] Reopened until last jump: 0 state(s).
+[t=0.00431037s, 10292 KB] Evaluated until last jump: 1 state(s).
+[t=0.00431037s, 10292 KB] Generated until last jump: 0 state(s).
+[t=0.00431037s, 10292 KB] Number of registered states: 6
+[t=0.00431037s, 10292 KB] Int hash set load factor: 6/8 = 0.75
+[t=0.00431037s, 10292 KB] Int hash set resizes: 3
+[t=0.00431037s, 10292 KB] Search time: 0.000444522s
+[t=0.00431037s, 10292 KB] Total time: 0.00431037s
+Solution found.
